@@ -2,4 +2,6 @@
 Alura-Midi
 
 
-![image](https://github.com/gabimatos81/midi-GabrielaMatos/assets/99931221/15fb4f9a-9a5a-49f3-94be-7dc91e5f3c00)
+![image](https://github.com/gabimatos81/midi-GabrielaMatos/assets/99931221/4fc7c743-f6d7-4e79-a998-374d521f2f4e)
+
+
